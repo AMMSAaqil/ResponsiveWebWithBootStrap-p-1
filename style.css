@@ -1,0 +1,34 @@
+/* .editod1{
+    justify-content: end;
+} */
+
+.editod0{
+    
+    font-size: large;
+    font-weight: bold;
+}
+
+.text-primary{
+
+    color: tomato !important; 
+}
+
+.row1{
+
+    height: 500px !important;
+    width: 100%;
+}
+
+.row1 img{
+
+    height:500px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50px;
+}
+.custom1{
+
+    text-decoration: none !important;
+    text-decoration-line: none;
+    color:black;
+}
